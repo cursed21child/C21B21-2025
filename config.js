@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Confirm ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine this year and every other year? (I couldn't wait! Too worried someone is going to ask you before me!!) ", // The big question!
+            text: "Will you be my Valentine this year and every other year?  ", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -49,8 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Jackpot! Aren't I lucky?",
-        message: "Now come get your gift, MUA7 3lik, a big warm hug and a huge kiss!",
+        title: "Yay! Jackpot fo' me'h! Aren't I lucky?",
+        message: "MUA7 3lik, I love you! I couldn't wait! Too worried someone is going to ask you before me!!",
+!",
         emojis: "🐑❤️"  // These will bounce around
     },
 
